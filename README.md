@@ -1,4 +1,4 @@
-# danielfritz.github.io
+# Better than the auto title
 pages test
 
 addendum1

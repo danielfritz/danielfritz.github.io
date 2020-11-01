@@ -1,4 +1,4 @@
-# Better than the auto title
+# Just testin' the gh pages
 pages test
 
 addendum1
